@@ -76,8 +76,14 @@ Built during **HackRx 6.0**, this tool scans legal documents, performs semantic 
 | Stats | Top Languages |
 |-------|---------------|
 | ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashutosh7484&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh7484&layout=compact&theme=tokyonight) |
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutosh7484&show_icons=true&theme=radical)
+
+### 🔝 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh7484&layout=compact&theme=radical)
 
 ---
+&theme=tokyonight
 
 ## 📫 Let's Connect
 
