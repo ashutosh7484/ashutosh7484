@@ -88,7 +88,6 @@ Built during **HackRx 6.0**, this tool scans legal documents, performs semantic 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh7484&layout=compact&theme=radical)
 
 ---
-&theme=tokyonight
 
 ## 📫 Let's Connect
 
