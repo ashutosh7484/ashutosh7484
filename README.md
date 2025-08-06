@@ -1,10 +1,3 @@
-# 💫 Ashutosh Kumar
-
-> 🎓 Student | 💻 Developer | 🎨 Creator | 🌐 Web + AI Explorer
-
-Hey there! I'm **Ashutosh Kumar**, a passionate developer from India who enjoys building useful, beautiful, and meaningful software. Whether it's crafting web interfaces, exploring the power of AI, or diving into hackathons — I'm always up for the next challenge!
-
----
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar</h1>
 <h3 align="center">AI/ML | Web Dev | HAPS Explorer</h3>
 
@@ -12,6 +5,11 @@ Hey there! I'm **Ashutosh Kumar**, a passionate developer from India who enjoys 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=AI+Explorer+%F0%9F%A7%AB;Web+Developer+%F0%9F%92%BB;Tech+Learner+%E2%9C%8C%EF%B8%8F;Hackathon+Lover+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
+> 🎓 Student | 💻 Developer | 🎨 Creator | 🌐 Web + AI Explorer
+
+Hey there! I'm a passionate developer from India who enjoys building useful, beautiful, and meaningful software. Whether it's crafting web interfaces, exploring the power of AI, or diving into hackathons — I'm always up for the next challenge!
+
+---
 
 ## 🚀 Tech Stack
 
