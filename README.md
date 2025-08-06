@@ -46,7 +46,7 @@ Hey there! I'm **Ashutosh Kumar**, a passionate developer from India who enjoys 
 
 ## 📌 Featured Projects
 
-### 🔹 [WeathCare](https://github.com/Ashutosh-360/WeathCare)
+### 🔹 [WeathCare](https://github.com/Ashutosh7484/WeathCare)
 A smart weather-based healthcare assistant that suggests lifestyle tips, health precautions, and actionable insights based on the weather forecast in your area.
 
 > 🌧️ “If it’s gonna rain, better carry that umbrella AND a ginger tea suggestion.”  
@@ -75,16 +75,16 @@ Built during **HackRx 6.0**, this tool scans legal documents, performs semantic 
 
 | Stats | Top Languages |
 |-------|---------------|
-| ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashutosh-360&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-360&layout=compact&theme=tokyonight) |
+| ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashutosh7484&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh7484&layout=compact&theme=tokyonight) |
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 Email: [ashbatola123@gmail.com](mailto:ashbatola123@gmail.com)
+- 📧 Email: [ansukr321@gmail.com](mailto:ansukr321@gmail.com)
 - 🌐 Portfolio: Coming Soon...
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ashutosh360)
-- 💻 GitHub: [@Ashutosh-360](https://github.com/Ashutosh-360)
+- 💼 LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/ashutosh360](https://www.linkedin.com/in/ashutosh-kumar-083860291/))
+- 💻 GitHub: [@Ashutosh7484](https://github.com/Ashutosh7484)
 
 ---
 
