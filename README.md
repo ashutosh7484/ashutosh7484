@@ -7,7 +7,7 @@
 
 > 🎓 Student | 💻 Developer | 🎨 Creator | 🌐 Web + AI Explorer
 
-Hey there! I'm a passionate developer from India who enjoys building useful, beautiful, and meaningful software. Whether it's crafting web interfaces, exploring the power of AI, or diving into hackathons — I'm always up for the next challenge!
+Hey there! I'm from India who enjoys building useful, beautiful, and meaningful software. Whether it's crafting web interfaces, exploring the power of AI, or diving into hackathons! I'm always up for the next challenge!
 
 ---
 
