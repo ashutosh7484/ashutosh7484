@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header-banner.svg" width="100%" alt="Ashutosh Kumar - Header Banner"/>
+  <img src="header-banner (1).svg" width="100%" alt="Ashutosh Kumar - Header Banner"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar</h1>
