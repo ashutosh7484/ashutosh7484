@@ -79,7 +79,7 @@ Built during **HackRx 6.0**, this tool scans legal documents, performs semantic 
 - 🚀 Open Source contributor & always up for collaboration!
 
 ---
-
+![snake gif](https://github.com/ashutosh7484/ashutosh7484/blob/output/snake.svg)
 ## 📊 GitHub Stats
 
 | Stats | Top Languages |
