@@ -2,8 +2,8 @@
   <img src="header-banner (1).svg" width="100%" alt="Ashutosh Kumar - Header Banner"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Ashutosh Kumar</h1>
-<h3 align="center">AI/ML | Web Dev | Full Stack Explorer</h3>
+<!-- <h1 align="center">Hi 👋, I'm Ashutosh Kumar</h1>
+<h3 align="center">AI/ML | Web Dev | Full Stack Explorer</h3> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=AI+Explorer+%F0%9F%A7%AB;Web+Developer+%F0%9F%92%BB;Tech+Learner+%E2%9C%8C%EF%B8%8F;Hackathon+Lover+%F0%9F%A4%96" alt="Typing SVG" />
